@@ -3,7 +3,7 @@ branch-defaults:
     environment: null
     group_suffix: null
 global:
-  application_name: jrcms
+  application_name: jrcms-vivien-1
   branch: null
   default_ec2_keyname: null
   default_platform: Docker 18.09.9-ce
